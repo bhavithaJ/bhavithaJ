@@ -2,9 +2,13 @@
  
 **Tech Stack**
 -Programming Languages: Python, JavaScript, C++
+
 -Web Development: HTML, CSS, React, Node.js
+
 -Data Science & ML:Pandas, NumPy, Matplotlib, Scikit-learn
+
 -Tools & Platforms:Git, GitHub, VS Code
+
 -Databases:MySQL, PostgreSQL
 
 ** What I Do**
