@@ -1,16 +1,23 @@
-## Hi there 👋
+** Hi there 👋**
+ 
+**Tech Stack**
+-Programming Languages: Python, JavaScript, C++
+-Web Development: HTML, CSS, React, Node.js
+-Data Science & ML:Pandas, NumPy, Matplotlib, Scikit-learn
+-Tools & Platforms:Git, GitHub, VS Code
+-Databases:MySQL, PostgreSQL
 
-<!--
-**bhavithaJ/bhavithaJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** What I Do**
+- 🌟 Building innovative solutions for real-world problems.
+- 📊 Exploring the intersection of data analysis
+- 🎨 Designing user-friendly and efficient web applications.
+- 💡 Continuously learning and improving my skills.
 
-Here are some ideas to get you started:
+**🌱 Current Goals**
+- Master advanced machine learning techniques.
+- Explore cloud computing technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌟 Fun Facts
+- I like learning new things every day.
+- When I'm not coding, you can find me reading, exploring new places, or spending time with my family and friends.
